@@ -1,5 +1,5 @@
 # Sistemas_inteligentes
-Juego/practica final (WUMPUS) de la asignatura Sistemas Inteligentes de la Universidad de Burgos.
+Juego/practica final (WUMPUS).
 
 ## El Mundo de Wumpus — Inteligencia Artificial & Minimax
 
