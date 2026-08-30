@@ -1,7 +1,7 @@
 # Sistemas_inteligentes
-Juego/practica final (WUMPUS).
+Juego/practica (WUMPUS).
 
-## El Mundo de Wumpus — Inteligencia Artificial & Minimax
+## El Mundo de Wumpus — AI & Minimax
 
 Implementación interactiva en **Python** del clásico entorno del **Mundo de Wumpus** orientada a la toma de decisiones mediante agentes inteligentes. El proyecto combina un entorno dinámico con renderizado gráfico interactivo en Jupyter Notebook y algoritmos de búsqueda de adversarios (**Minimax**) para la resolución automática del juego y modos competitivos contra el usuario.
 
